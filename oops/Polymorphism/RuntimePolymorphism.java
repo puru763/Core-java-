@@ -10,6 +10,8 @@ package Polymorphism;
 }
 
 class Purvesh extends InfoService {
+
+    @Override
     public void InfoServiceMember() {
         System.out.println("Purvesh Krishnani InfoService  New Member");
 

@@ -1,0 +1,16 @@
+Abstraction  is sued hide an implementation details      
+
+example =  in restaurant   we  order   food   we  dont  know  who  is chef  and  what  Ingredient   they  gonna use   so this  si an  abstract 
+          only necesary details  will be  given  them    
+
+Importatnt  = IN this we need to unertsnd that  interfec and abstract class both a re used for abstraction (used to  hide an imlementation details)
+                abstract   class  can have  both  abstract  and  non  abstract   menthod     but  method   which is  declared  as  abstrct  in  abstract 
+                 class  need to   be  overrride  (impelmt  the logic)  in  sub  class    
+
+Abstract Classes: Can have both abstract and non-abstract (concrete) methods.
+
+Interfaces: Can have abstract, default, and static methods.
+
+
+after this  refer  code   from resto folder
+

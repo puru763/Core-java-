@@ -1,0 +1,17 @@
+Exception  =  Exceptions are errors that occur during the execution of code, typically at runtime. 
+
+Exception Handling  =  Exception Handling is a mechanism to handle runtime errors such as ClassNotFoundException, IOException,
+                       SQLException, RemoteException,  
+
+
+
+Importatnt  =  if  we  dont use  try catch block  and if  erro  occure it   wll  block the  whole  execution of the  program. if  we  use try catch  rigth   
+                and  erro  occure  it  will not  bock  the  other  ecetion only  that  perticular part    will  give   error  and  it   will not 
+                 afftect  other thing 
+
+
+
+
+
+The key difference between these two scenarios is that the try-catch block allows the program to handle the exception and continue executing, while without the try-catch block,
+ the program terminates immediately with an exception message.

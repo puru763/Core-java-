@@ -1,4 +1,4 @@
-package Abstraction;
+package Abstraction.Banking;
 
 public class BankingApplication {
 

@@ -1,4 +1,5 @@
-package Abstraction;
+package Abstraction.Banking;
+
 public class SavingAccount extends Account {
     public SavingAccount(double initialBalance) {
         this.balance = initialBalance;

@@ -1,4 +1,4 @@
-package Abstraction;
+package Abstraction.Banking;
 
 class CurrentAccount extends Account {
 
